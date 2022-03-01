@@ -1,0 +1,13 @@
+id: P785EFEE8
+initial_creation_type: input
+source_metadata:
+  title: 'MSV 6,02: Vinītakā'
+  language: bo
+  volumes:
+    0ba0ef307a7840a780b3a2a284638cb4:
+      title: Vinītakā
+      base_file: Vinītakā.txt
+      work_id: WC27463AF
+  chapter_to_tile: {}
+created_at: '2022-03-01T22:53:47.340891'
+last_modified_at: '2022-03-01T22:53:47.340897'
